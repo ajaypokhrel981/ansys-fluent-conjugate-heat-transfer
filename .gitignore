@@ -1,0 +1,20 @@
+# Generated Fluent runs and machine-specific UDF builds
+libudf/
+**/libudf/
+*.dll
+*.obj
+*.lib
+*.exe
+*.trn
+*.dat.h5
+*.cas.h5
+*.msh.h5
+cleanup-fluent-*.bat
+*.lock
+*.log
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
+# Curated native inputs and original evidence are committed in ZIP archives.

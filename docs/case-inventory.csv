@@ -1,0 +1,29 @@
+folder_Re_label,case_in_archive,archive,original_data_pair_present,data_in_archive,fluent_version,max_cell_id,rp_lam,rp_kw,rp_unsteady,reference_velocity,reference_length,source_RE_H,udf_source
+200,ks_by_kf=1/spaceclaim_geometry.cas.h5,native/Re200.zip,True,False,26.1,115933,#f,#t,#f,0.01461759294626718,0.1000000014901161,not located,not located
+200,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re200.zip,True,False,26.1,115933,#f,#t,#f,0.01461759294626718,0.1000000014901161,100.0,ks_by_kf=10/libudf/src/udf_vel_inlet.cpp
+200,ks_by_kf=100/spaceclaim_geometry.cas.h5,native/Re200.zip,True,False,26.1,115933,#f,#t,#f,0.01461759294626718,0.1000000014901161,not located,not located
+400,ks_by_kf=1/spaceclaim_geometry.cas.h5,native/Re400.zip,True,False,26.1,115933,#f,#t,#f,0.02923518589253436,0.1000000014901161,200.0,ks_by_kf=1/libudf/src/udf_vel_inlet.cpp
+400,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re400.zip,True,False,26.1,115933,#f,#t,#f,0.02923518589253436,0.1000000014901161,200.0,ks_by_kf=10/libudf/src/udf_vel_inlet.cpp
+400,ks_by_kf=100/spaceclaim_geometry.cas.h5,native/Re400.zip,True,False,26.1,115933,#f,#t,#f,0.02923518589253436,0.1000000014901161,200.0,ks_by_kf=100/libudf/src/udf_vel_inlet.cpp
+600,ks_by_kf=1/spaceclaim_geometry.cas.h5,native/Re600.zip,True,False,26.1,115933,#f,#t,#f,0.04385277883880156,0.1000000014901161,300.0,ks_by_kf=1/libudf/src/udf_vel_inlet.cpp
+600,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re600.zip,True,False,26.1,115933,#f,#t,#f,0.04385277883880156,0.1000000014901161,300.0,ks_by_kf=10/libudf/src/udf_vel_inlet.cpp
+600,ks_by_kf=100/spaceclaim_geometry.cas.h5,native/Re600.zip,True,False,26.1,115933,#f,#t,#f,0.04385277883880156,0.1000000014901161,300.0,ks_by_kf=100/libudf/src/udf_vel_inlet.cpp
+800,ks_by_kf=1/spaceclaim_geometry.cas.h5,native/Re800.zip,True,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,400.0,ks_by_kf=1/udf_vel_inlet.cpp
+800,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re800.zip,True,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,400.0,ks_by_kf=10/udf_vel_inlet.cpp
+800,ks_by_kf=100/spaceclaim_geometry.cas.h5,native/Re800.zip,True,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,400.0,ks_by_kf=100/udf_vel_inlet.cpp
+1000,ks_by_kf=1/spaceclaim_geometry.cas.h5,native/Re1000.zip,True,False,26.1,115933,#f,#t,#f,0.07308796473133594,0.1000000014901161,500.0,ks_by_kf=1/libudf/src/udf_vel_inlet.cpp
+1000,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re1000.zip,True,True,26.1,115933,#f,#t,#f,0.07308796473133594,0.1000000014901161,500.0,ks_by_kf=10/udf_vel_inlet.cpp
+1000,ks_by_kf=100/spaceclaim_geometry.cas.h5,native/Re1000.zip,True,False,26.1,115933,#f,#t,#f,0.07308796473133594,0.1000000014901161,500.0,ks_by_kf=100/udf_vel_inlet.cpp
+1000,mesh 2/ks_by_kf=10/spaceclaim_geometry_2d_mesh_2.cas.h5,native/Re1000.zip,True,False,26.1,253687,#f,#t,#f,0.07306702420144151,0.1000000014901161,500.0,udf_vel_inlet.cpp
+1200,ks_by_kf=1/spaceclaim_geometry.cas.h5,native/Re1200.zip,False,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,600.0,ks_by_kf=1/udf_vel_inlet.cpp
+1200,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re1200.zip,True,False,26.1,115933,#f,#t,#f,0.08770555767760312,0.1000000014901161,600.0,ks_by_kf=10/udf_vel_inlet.cpp
+1200,ks_by_kf=100/spaceclaim_geometry.cas.h5,native/Re1200.zip,False,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,600.0,ks_by_kf=100/udf_vel_inlet.cpp
+1400,ks_by_kf=1/spaceclaim_geometry.cas.h5,native/Re1400.zip,False,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,700.0,ks_by_kf=1/udf_vel_inlet.cpp
+1400,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re1400.zip,True,False,26.1,115933,#f,#t,#f,0.1023231506238703,0.1000000014901161,700.0,ks_by_kf=10/udf_vel_inlet.cpp
+1400,ks_by_kf=100/spaceclaim_geometry.cas.h5,native/Re1400.zip,False,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,700.0,ks_by_kf=100/udf_vel_inlet.cpp
+1600,ks_by_kf=1/spaceclaim_geometry.cas.h5,native/Re1600.zip,False,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,800.0,ks_by_kf=1/udf_vel_inlet.cpp
+1600,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re1600.zip,True,False,26.1,115933,#f,#t,#f,0.1169407435701375,0.1000000014901161,800.0,ks_by_kf=10/udf_vel_inlet.cpp
+1600,ks_by_kf=100/spaceclaim_geometry.cas.h5,native/Re1600.zip,False,False,26.1,115933,#f,#t,#f,0.05847037178506873,0.1000000014901161,800.0,ks_by_kf=100/udf_vel_inlet.cpp
+1800,ks_by_kf=10/spaceclaim_geometry.cas.h5,native/Re1800.zip,True,False,26.1,115933,#f,#t,#f,0.1315583365164047,0.1000000014901161,900.0,ks_by_kf=10/udf_vel_inlet.cpp
+2000,ks_by-kf=100/case5_Re2000_kskf100.cas.h5,native/Re2000.zip,True,False,26.1,115933,#f,#t,#f,0.1461759294626719,0.1000000014901161,not located,not located
+2000,ks_by_kf=10/spaceclaim_geometry(ks=0.242)converged_2d.cas.h5,native/Re2000.zip,True,False,26.1,115933,#f,#t,#f,0.1461759294626719,0.1000000014901161,1000.0,ks_by_kf=10/libudf/src/udf_vel_inlet.cpp
